@@ -29,6 +29,7 @@ class App extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
         useMaterial3: true,
       ),
+      asdasda
       home: const HomePage(),
     );
   }
